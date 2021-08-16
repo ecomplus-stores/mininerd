@@ -1,23 +1,28 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Mini Nerd",
+  "meta_description": "Estúdio criativo e Roupas Personalizadas. A Mini Nerd é uma loja virtual onde você pode comprar as camisetas mais bacanudas da galáxia! São modelos infantis e Adulto com estampas diferentes para todos os gostos, desde camisas de bandas e música, até mesmo para os nerds e geeks de plantão! Somos especializados em camisetas tal pai tal filho, tudo feito especialmente para você!",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/full-1.jpg",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": ""
+        },
+        {
+          "img": "/img/uploads/banner-full-compre-5-pague-4.jpg",
+          "alt": "",
+          "start": "",
+          "end": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-full-natal.jpg"
         }
       ]
     },
@@ -31,11 +36,6 @@
       "collection_id": null,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     }
   ]
 }
