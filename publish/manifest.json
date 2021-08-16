@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.81669aebff8eb4ce441851b56f4c3b60.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d11f2be6a3e034ccb221139d8d51d302.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7b890bc423dfbecb7a7ce485c7dd5c44.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.9af653c5f4baf8fbe138c971e8cc7fa7.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.20c2deac0bdec38d41dbf28674e20d26.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Mini Nerd",
+  "short_name": "Mini Nerd",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Mini Nerd é uma loja virtual onde você pode comprar as camisetas mais bacanudas e fofas da galáxia! São modelos infantis e Adulto com estampas diferentes para todos os gostos. Roupas tal pai, tal mãe, tal filho(a) você encontra aqui!\n\nFB0101",
+  "background_color": "#ffffff",
+  "theme_color": "#0188c7"
+}
