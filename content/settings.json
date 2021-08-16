@@ -1,24 +1,24 @@
 {
-  "store_id": 5643,
-  "name": "mininerd",
   "domain": "mininerd.netlify.app",
-  "short_name": "mininerd",
-  "description": "mininerd",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0188c7",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "sketchy",
+    "custom": "niche-baby"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/mininerd",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Mini Nerd",
+  "short_name": "Mini Nerd",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.ico",
   "country_code": "BR",
-  "repository": "ecomplus-stores/mininerd"
+  "secondary_color": "#fb0101",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 5643,
+  "description": "A Mini Nerd é uma loja virtual onde você pode comprar as camisetas mais bacanudas e fofas da galáxia! São modelos infantis e Adulto com estampas diferentes para todos os gostos. Roupas tal pai, tal mãe, tal filho(a) você encontra aqui!\n\nFB0101",
+  "large_icon": "/img/uploads/logo.png"
 }
