@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": " Frete Grátis Sul e Sudeste R$ 350,00 Demais Regiões R$ 500,00"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": " Até 3x s/ Juros Parcele em até 12x no Cartão"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": " Compra Segura Ambiente Seguro e Certificado Compre Tranquilo"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": " 10% de Desconto Nas Compras Pagas via Depósito Bancário"
   }
 }
